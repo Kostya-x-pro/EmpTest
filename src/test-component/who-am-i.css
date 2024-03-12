@@ -1,0 +1,25 @@
+.whoAmI {
+  margin: 50px 0;
+}
+
+.test_app {
+  max-width: 800px;
+  margin: 50px auto;
+}
+
+.years_btn {
+  display: block;
+  min-width: 70px;
+  margin: 0 auto;
+  padding: 10px;
+  font-size: 30px;
+  border: none;
+  border-radius: 5px;
+  background-color: yellow;
+  color: #000;
+}
+
+.years_btn_red {
+  background-color: red;
+  color: white;
+}
