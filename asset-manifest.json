@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/EmpTest/static/css/main.45a22696.css",
-    "main.js": "/EmpTest/static/js/main.b9b123e8.js",
+    "main.css": "/EmpTest/static/css/main.e5347352.css",
+    "main.js": "/EmpTest/static/js/main.88812de8.js",
     "index.html": "/EmpTest/index.html",
-    "main.45a22696.css.map": "/EmpTest/static/css/main.45a22696.css.map",
-    "main.b9b123e8.js.map": "/EmpTest/static/js/main.b9b123e8.js.map"
+    "main.e5347352.css.map": "/EmpTest/static/css/main.e5347352.css.map",
+    "main.88812de8.js.map": "/EmpTest/static/js/main.88812de8.js.map"
   },
   "entrypoints": [
-    "static/css/main.45a22696.css",
-    "static/js/main.b9b123e8.js"
+    "static/css/main.e5347352.css",
+    "static/js/main.88812de8.js"
   ]
 }
